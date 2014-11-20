@@ -6,9 +6,7 @@
 	my first modification
 	modification from hub
 	
-	this is a modification from the newly created branch
-	WELL, IT SEEMS THERE IS ROOM FOR BOTH BRANCHES :)
-	let's do the same from branch 2
+	huuub 2nd branch :)
 	
 	
 	
